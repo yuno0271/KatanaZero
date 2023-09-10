@@ -8,3 +8,7 @@
 - 개발도구 : Unity
 - 개발언어 : C#
 - 플랫폼 : PC
+
+## 영상 및 기술
+영상 : https://youtu.be/S7EUdjjhM7Q
+기술서 : 기술서링크
