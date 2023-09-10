@@ -16,4 +16,4 @@ UI와 플레이어간의 스크립트 연결, 총알 이펙트와 모든 사운�
 ## 영상 및 기술서
 영상 : https://youtu.be/S7EUdjjhM7Q
 
-https://docs.google.com/document/d/1cSMsOK118FNsmrrXlyuw5srTQHKcvqQxRkv_WCjWF7E/edit?usp=sharing
+기술서 링크 : https://docs.google.com/document/d/1cSMsOK118FNsmrrXlyuw5srTQHKcvqQxRkv_WCjWF7E/edit?usp=sharing
