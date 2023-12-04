@@ -2,6 +2,7 @@
 
 ## 프로젝트 소개
 액션게임 카타나제로의 게임성과 액션성을 유니티에서 구현해보고자 제작했습니다
+![ezgif com-resize](https://github.com/DDuAAtGhui/KatanaZero/assets/135325796/cf67b700-6a8b-4e23-b322-ee12b6cb4390)
 
 ## 팀 프로젝트 개요
 - 제작기간 : 3주
