@@ -13,10 +13,9 @@
 - 플랫폼 : PC
 
 ### 참여 부분
-Player가 행하는 모든 액션과 플레이어와 관련한 모든 스크립트,
-UI와 플레이어간의 스크립트 연결, 총알 이펙트와 모든 사운드
+게임 내 플레이어가 행하는 모든 액션, 시간 되돌리기, UI 스크립트, 플레이어의 이펙트, 총알 이펙트, 포스트 프로세싱 프로파일 등 제작
 
 ## 영상 및 기술서
 영상 : https://youtu.be/S7EUdjjhM7Q
 
-기술서 링크 : https://docs.google.com/document/d/1cSMsOK118FNsmrrXlyuw5srTQHKcvqQxRkv_WCjWF7E/edit?usp=sharing
+기술서 링크 : [https://docs.google.com/document/d/1cSMsOK118FNsmrrXlyuw5srTQHKcvqQxRkv_WCjWF7E/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vRY_s9r8e6qwkld4ZDoLUDCrCWvSccGLFJlvmiP34x_FQnMZB5rYYLtNam44UuJ9NppQsx57xdD0yze/pub)https://docs.google.com/document/d/e/2PACX-1vRY_s9r8e6qwkld4ZDoLUDCrCWvSccGLFJlvmiP34x_FQnMZB5rYYLtNam44UuJ9NppQsx57xdD0yze/pub
